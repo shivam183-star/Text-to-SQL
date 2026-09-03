@@ -1,4 +1,4 @@
-# Production-Style LLM Fine-Tuning Project
+# Conversational-Fine-Tuned-LLM
 
 Fine-tuning an instruction-tuned open-source LLM using
 Supervised Fine-Tuning (SFT), LoRA and QLoRA.
