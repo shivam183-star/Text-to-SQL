@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
+sentencepiece
+sqlglot
+fastapi
+uvicorn
+pydantic
+pytest

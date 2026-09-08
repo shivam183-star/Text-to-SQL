@@ -1,7 +1,27 @@
 [project]
-name = "conversational-fine-tuned-llm"
+name = "Text-to-SQL"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "accelerate>=1.14.0",
+    "bitsandbytes>=0.50.2",
+    "datasets>=5.0.1",
+    "fastapi>=0.141.1",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "peft>=0.20.0",
+    "pydantic>=2.13.5",
+    "pytest>=9.1.1",
+    "scikit-learn>=1.9.0",
+    "sentencepiece>=0.2.2",
+    "sqlglot>=30.18.0",
+    "torch>=2.14.0",
+    "transformers>=5.16.1",
+    "trl>=1.12.0",
+    "uvicorn>=0.52.4",
+]
