@@ -1,3 +1,4 @@
+# Currently in scaling
 # Text to SQL LLM Fine-Tuning Project
 
 Fine-tuning an instruction-tuned open-source LLM using
